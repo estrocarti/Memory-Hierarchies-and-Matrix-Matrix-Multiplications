@@ -1,0 +1,7 @@
+Intel Xeon E5-2650 v3 @ 2.30GHz:
+
+P_{core} = 2 x 2 x 4x 2.30 GHz = 36.8 GFlops/s
+P_{CPU}  = 10 x 36.8         = 368 GFlops/s
+P_{node} = 2 x 368          = 736 GFlops/s
+P_{EVII} = 42 x 736         = 30912 GFlops/s
+                                = 30.912 TFlops/s
