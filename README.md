@@ -2,7 +2,7 @@ This project dives deep into the intricacies of optimizing matrix-matrix multipl
 Highlights
 
     Optimized BLAS Implementation: Designed a matrix-matrix multiplication routine tailored to exploit cache hierarchies effectively, reducing memory bottlenecks and improving execution speed.
-    Architecture-Specific Optimizations: Targeted optimization for the Rosa computer architecture, highlighting platform-specific strategies for single-core performance tuning.
+    Architecture-Specific Optimizations: Targeted optimization for the Rosa cluster, highlighting platform-specific strategies for single-core performance tuning.
     Performance Metrics: Benchmarked results to evaluate the impact of optimization techniques, focusing on metrics like execution time, cache miss rates, and overall computational efficiency.
 
 Skills and Concepts
